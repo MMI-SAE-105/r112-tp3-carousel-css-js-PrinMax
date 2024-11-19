@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Prin
+- prénom : Max
+- URL Netlify : https://stupendous-kashata-5b4d4e.netlify.app
 
 # Travail
 
